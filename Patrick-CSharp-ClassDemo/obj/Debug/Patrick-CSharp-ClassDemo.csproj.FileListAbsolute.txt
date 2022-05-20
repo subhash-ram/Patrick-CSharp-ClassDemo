@@ -1,0 +1,6 @@
+/Users/sramachandran/RiderProjects/Patrick-CSharp-ClassDemo/Patrick-CSharp-ClassDemo/bin/Debug/Patrick_CSharp_ClassDemo.exe
+/Users/sramachandran/RiderProjects/Patrick-CSharp-ClassDemo/Patrick-CSharp-ClassDemo/bin/Debug/Patrick_CSharp_ClassDemo.pdb
+/Users/sramachandran/RiderProjects/Patrick-CSharp-ClassDemo/Patrick-CSharp-ClassDemo/obj/Debug/Patrick-CSharp-ClassDemo.csprojAssemblyReference.cache
+/Users/sramachandran/RiderProjects/Patrick-CSharp-ClassDemo/Patrick-CSharp-ClassDemo/obj/Debug/Patrick-CSharp-ClassDemo.csproj.CoreCompileInputs.cache
+/Users/sramachandran/RiderProjects/Patrick-CSharp-ClassDemo/Patrick-CSharp-ClassDemo/obj/Debug/Patrick_CSharp_ClassDemo.exe
+/Users/sramachandran/RiderProjects/Patrick-CSharp-ClassDemo/Patrick-CSharp-ClassDemo/obj/Debug/Patrick_CSharp_ClassDemo.pdb
